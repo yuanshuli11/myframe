@@ -1,0 +1,12 @@
+#服务启动监听端口
+listen.port: 8888
+
+log.applog.path: "/work/applogs/myframe"
+log.applog.level: "debug"
+
+db:
+  username: "root"
+  password: "test123456"
+  host: "127.0.0.1"
+  port: "3306"
+  database: "test"
